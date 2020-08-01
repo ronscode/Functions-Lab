@@ -9,4 +9,6 @@ function wrongResult( numOne, numTwo, numThree​) {
   } else if (numOne < 0 && numTwo < 0 && numThree > 0) {
     console.log("Positive");
   }
+
+  // Your code here! 
 }
